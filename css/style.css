@@ -41,6 +41,7 @@ h1 {
 #coin_container img {
 	width: 300px;
 	position: absolute;
+	/* need this for it to work in safari */
 	-webkit-backface-visibility: hidden;
 }
 
