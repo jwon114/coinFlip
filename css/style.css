@@ -42,7 +42,7 @@ h1 {
 	width: 300px;
 	position: absolute;
 	/* need this for it to work in safari */
-	-webkit-backface-visibility: hidden;
+	/*-webkit-backface-visibility: hidden;*/
 }
 
 /* rotate the tails coin image so it is back to back with the heads image */
